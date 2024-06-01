@@ -1,4 +1,4 @@
-# Bio-data collector - Generative AI model powered by LangChain
+# Bio-data collector 
 The project utilizes LangChain and Language Models (LLMs) for data collection from LinkedIn and Twitter profiles based on a person's name. Here's a breakdown of the key points:
 
 Profile Retrieval: LinkedIn and Twitter profiles are obtained using APIs or web scraping methods.
